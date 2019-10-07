@@ -1,8 +1,10 @@
 # Can Arm Take the Lead in HPC?
 
-Room 301-302-303
-5:15pm - 6:45pm
-Tuesday, 19 November 2019
+**Room 301-302-303**
+
+**5:15pm - 6:45pm**
+
+**Tuesday, 19 November 2019**
 
 ## Session Leaders
  * John Linford, _Arm_, <john.linford@arm.com>
