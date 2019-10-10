@@ -14,6 +14,7 @@
     * Can Arm take the lead in HPC [at Exascale / in interconnects]? 
     * What are your biggest concerns for Arm HPC?
 * [55min] Panel of Experts
+  * Rui Oliveira, _University of Minho, INESC TEC_
   * Simon McIntosh-Smith, _University of Bristol, GW4_
   * Mitsuhisa Sato, _RIKEN Center for Computational Science_
   * Satoshi Matsuoka, _RIKEN Center for Computational Science_
