@@ -10,9 +10,7 @@
   * Whamcloud, _Carlos Thomaz_
   * ... and more!  Full lineup TBD. 
 * [5min] Live Poll
-  * Take audience feedback to drive the conversation and seed questions for the panel session.  Example questions:
-    * Can Arm take the lead in HPC [at Exascale / in interconnects]? 
-    * What are your biggest concerns for Arm HPC?
+  * Take audience feedback to drive the conversation and seed questions for the panel session.
 * [55min] Panel of Experts
   * Rui Oliveira, _University of Minho, INESC TEC_
   * Simon McIntosh-Smith, _University of Bristol, GW4_
