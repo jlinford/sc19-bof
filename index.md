@@ -8,7 +8,7 @@
   * NVIDIA, _CJ Newburn_
   * Marvell, _Larry Wikelius_
   * Whamcloud, _Carlos Thomaz_
-  * ... and more!  Full lineup TBD. 
+  * ... and more!  Full lineup TBD.
 * [5min] Live Poll
   * Take audience feedback to drive the conversation and seed questions for the panel session.
 * [55min] Panel of Experts
