@@ -5,6 +5,7 @@
   * Altair, _Eric Lequiniou_
   * Atos, _Said Derradji_
   * HPE, _Andy Warner_
+  * Linaro, _Elsie Wahlig_
   * SUSE, _Jay Kruemke_
   * NVIDIA, _CJ Newburn_
   * Marvell, _Larry Wikelius_
