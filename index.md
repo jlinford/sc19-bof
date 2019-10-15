@@ -3,6 +3,7 @@
 * [2m] Opening Remarks
 * [25min] Lightning talks: 90-second talks from Arm's partners in SoCs, interconnects, intergrators, operating systems, storage, and ecosystem.  
   * Altair, _Eric Lequiniou_
+  * ANSYS, _Bharat Agrawal_
   * Atos, _Said Derradji_
   * HPE, _Andy Warner_
   * Linaro, _Elsie Wahlig_
