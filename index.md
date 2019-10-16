@@ -5,6 +5,7 @@
   * Altair, _Eric Lequiniou_
   * ANSYS, _Bharat Agrawal_
   * Atos, _Said Derradji_
+  * Cray, _Dan Ernst_
   * HPE, _Andy Warner_
   * Linaro, _Elsie Wahlig_
   * SUSE, _Jay Kruemke_
