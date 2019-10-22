@@ -8,6 +8,7 @@
   * Cray, _Dan Ernst_
   * HPE, _Andy Warner_
   * Linaro, _Elsie Wahlig_
+  * RIKEN, _Mitsuhisa Sato_
   * SUSE, _Jay Kruemke_
   * NVIDIA, _CJ Newburn_
   * Marvell, _Larry Wikelius_
@@ -18,7 +19,6 @@
 * [55min] Panel of Experts
   * Rui Oliveira, _University of Minho, INESC TEC_
   * Simon McIntosh-Smith, _University of Bristol, GW4_
-  * Mitsuhisa Sato, _RIKEN Center for Computational Science_
   * Satoshi Matsuoka, _RIKEN Center for Computational Science_
   * Andrew Younge, _Sandia National Laboratories_
   * Dirk Pleiter, _Forschungszentrum Juelich_
