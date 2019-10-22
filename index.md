@@ -10,7 +10,7 @@
   * HPE, _Andy Warner_
   * Linaro, _Elsie Wahlig_
   * RedHat, _TBD_
-  * RIKEN, _Mitsuhisa Sato_
+  * RIKEN/Fujitsu, _Mitsuhisa Sato_
   * SUSE, _Jay Kruemke_
   * NVIDIA, _CJ Newburn_
   * Marvell, _Larry Wikelius_
