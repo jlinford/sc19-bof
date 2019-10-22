@@ -6,14 +6,15 @@
   * ANSYS, _Bharat Agrawal_
   * Atos, _Said Derradji_
   * Cray, _Dan Ernst_
+  * EPI, _TBD_
   * HPE, _Andy Warner_
   * Linaro, _Elsie Wahlig_
+  * RedHat, _TBD_
   * RIKEN, _Mitsuhisa Sato_
   * SUSE, _Jay Kruemke_
   * NVIDIA, _CJ Newburn_
   * Marvell, _Larry Wikelius_
   * Whamcloud, _Carlos Thomaz_
-  * ... and more!  Full lineup TBD.
 * [5min] Live Poll
   * Take audience feedback to drive the conversation and seed questions for the panel session.
 * [55min] Panel of Experts
