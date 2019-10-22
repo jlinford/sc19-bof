@@ -23,7 +23,6 @@
   * Andrew Younge, _Sandia National Laboratories_
   * Dirk Pleiter, _Forschungszentrum Juelich_
   * Keith Obenschain, _U.S. Naval Research Laboratory_
-  * Gopal Patnaik, _U.S. Naval Research Laboratory_
   * Guillaume Colin de Verdière, _CEA_
 
 # Description
