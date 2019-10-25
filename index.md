@@ -6,11 +6,10 @@
   * ANSYS, _Bharat Agrawal_
   * Atos, _Said Derradji_
   * Cray, _Dan Ernst_
-  * EPI, _TBD_
+  * Fujitsu, _Takumi Maruyama_
   * HPE, _Andy Warner_
   * Linaro, _Elsie Wahlig_
-  * RedHat, _TBD_
-  * RIKEN/Fujitsu, _Mitsuhisa Sato_
+  * RIKEN, _Mitsuhisa Sato_
   * SUSE, _Jay Kruemke_
   * NVIDIA, _CJ Newburn_
   * Marvell, _Larry Wikelius_
