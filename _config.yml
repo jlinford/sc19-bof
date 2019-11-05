@@ -6,3 +6,5 @@ google_analytics: UA-149556291-1
 github:
   is_project_page: false
   
+section-headings-color: #333e48;
+header-heading-color: #333e48;
