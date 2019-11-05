@@ -9,7 +9,7 @@ Arm-based processors have gained substantial traction in the HPC community. Sand
 120-second talks from Arm's partners in SoCs, interconnects, intergrators, operating systems, storage, and ecosystem.
 
   Partner | Presenter | Materials
-  ------: | :-------: | ---------
+  :-----: | :-------: | :-------:
   Altair | _Eric Lequiniou_
   ANSYS | _Bharat Agrawal_
   Atos | _Said Derradji_
@@ -37,7 +37,7 @@ Audience feedback to drive the conversation and seed questions for the panel.
 Interactive discussion with leaders in the Arm HPC space.
 
   Name | Affiliations | Materials
-  ---- | ------------ | ---------
+  :--: | :----------: | :-------:
   Rui Oliveira | _University of Minho, INESC TEC_ | 
   Simon McIntosh-Smith | _University of Bristol, GW4_ | 
   Satoshi Matsuoka | _RIKEN Center for Computational Science_ | 
