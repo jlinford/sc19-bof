@@ -3,6 +3,20 @@
 
 @import "{{ site.theme }}";
 
-header.page-header {
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
   background: #7fc8de url('https://pages.arm.com/rs/312-SAX-488/images/sc19_banner %281%29.jpg') center center/cover no-repeat fixed;
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
