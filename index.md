@@ -21,7 +21,7 @@
 * [5min] Live Poll: audience feedback to drive the conversation and seed questions for the panel.
 
    * [Click here to participate in the poll](https://www.menti.com/ee43i2m7pr)
-   * ![QR Code](/QR.png =100x100)
+   * <img src="QR.png" alt="QR Code" width="200"/>
   
 * [55min] Panel of Experts
 
