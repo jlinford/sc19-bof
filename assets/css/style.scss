@@ -9,7 +9,7 @@ $header-heading-color: #333e48;
 .page-header {
   color: #ffffff;
   text-align: center;
-  background: #7fc8de url('https://github.com/jlinford/sc19-bof/raw/master/banner.png') center center/cover no-repeat fixed;
+  background: #000000 url("/banner-dark.png") right top no-repeat fixed;
 
   @include large {
     padding: 5rem 6rem;
