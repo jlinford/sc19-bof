@@ -6,7 +6,7 @@ Arm-based processors have gained substantial traction in the HPC community. Sand
 
 ## [25min] Lightning Talks
 
-90-second talks from Arm's partners in SoCs, interconnects, intergrators, operating systems, storage, and ecosystem.
+120-second talks from Arm's partners in SoCs, interconnects, intergrators, operating systems, storage, and ecosystem.
 
   Partner | Presenter | Materials
   ------: | :-------: | ---------
