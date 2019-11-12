@@ -10,7 +10,7 @@ Arm-based processors have gained substantial traction in the HPC community. Sand
 
   Partner | Presenter | Materials
   :-----: | :-------: | :-------:
-  Altair | _Eric Lequiniou_
+  Altair | _Eric Lequiniou_ | [Altair Radioss Porting on Arm](https://github.com/jlinford/sc19-bof/raw/master/Altair%20Radioss%20on%20ARM%20eric%20lequiniou%20-%20BOF%20-%20%20final.pdf)
   ANSYS | _Bharat Agrawal_
   Atos | _Said Derradji_
   Cray | _Dan Ernst_
