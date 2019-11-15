@@ -14,7 +14,7 @@ Arm-based processors have gained substantial traction in the HPC community. Sand
   ANSYS | _Bharat Agrawal_
   Atos | _Said Derradji_
   Cray | _Dan Ernst_
-  Fujitsu | _Takumi Maruyama_
+  Fujitsu | _Takumi Maruyama_ | [The First Arm-based HPC Processor](https://github.com/jlinford/sc19-bof/raw/master/191119sc19_a64fx_ArmBOF.pdf)
   HPE | _Andy Warner_
   Linaro | _Elsie Wahlig_
   RIKEN | _Mitsuhisa Sato_
