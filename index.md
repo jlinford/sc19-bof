@@ -37,15 +37,25 @@ Audience feedback to drive the conversation and seed questions for the panel.
 
 Interactive discussion with leaders in the Arm HPC space.
 
-  Name | Affiliations | Materials
-  :--: | :----------: | :-------:
-  Rui Oliveira | _University of Minho, INESC TEC_ | 
-  Simon McIntosh-Smith | _University of Bristol, GW4_ | 
-  Satoshi Matsuoka | _RIKEN Center for Computational Science_ | 
-  Andrew Younge | _Sandia National Laboratories_ | 
-  Dirk Pleiter | _Forschungszentrum Juelich_ | 
-  Keith Obenschain | _U.S. Naval Research Laboratory_ | 
-  Guillaume Colin de Verdière | _CEA_ | 
+### Rui Oliveira, _University of Minho, INESC TEC_ 
+
+### Simon McIntosh-Smith, _University of Bristol, GW4_ 
+
+### Satoshi Matsuoka, _RIKEN Center for Computational Science_ 
+
+### Andrew Younge, _Sandia National Laboratories_ 
+
+### Dirk Pleiter, _Forschungszentrum Juelich_ 
+
+### Keith Obenschain, _U.S. Naval Research Laboratory_ 
+
+### Guillaume Colin de Verdière, _CEA_
+
+Guillaume graduated from ENSCP (Chimie ParisTech) in 1984 and got his PhD in 2019 (subject was: Searching for the highest
+performance for simulation codes and scientific visualization). He has been a CEA staff member since 1985. After
+contributing to large scientific codes for 7 years, he has been deeply involved in post-processing software with a focus on
+visualization and I/O. Since 2008, his activities are on investigating new architectures for next generations of
+supercomputers and foresee the impact of such architectures on scientific codes.
 
 # Session Leaders
 
