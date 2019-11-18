@@ -48,6 +48,8 @@ Interactive discussion with leaders in the Arm HPC space.
 
 ### Dirk Pleiter, _Forschungszentrum Juelich_ 
 
+Dirk Pleiter leads a research group on "Application oriented technology development" at Juelich Supercomputing Centre. He is currently involved in different projects, where Arm technology plays an important role, including EPI and the Open Edge and HPC initiative. His team operates a 16-node cluster based on Hisilicon Hi1616 processors as well as a 4-node cluster based on ThunderX2 processors.
+
 ### Keith Obenschain, _U.S. Naval Research Laboratory_ 
 
 ### Guillaume Colin de Verdière, _CEA_
