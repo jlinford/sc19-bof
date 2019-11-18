@@ -22,7 +22,7 @@ Please join in!  We're using this live poll to gather audience feedback and driv
   :-----: | :-------: | :-------:
   Altair | _Eric Lequiniou_ | [Altair Radioss Porting on Arm](https://github.com/jlinford/sc19-bof/raw/master/slides/Altair_Lequiniou.pdf)
   ANSYS | _Bharat Agrawal_ | [ANSYS Fluent for Arm](https://github.com/jlinford/sc19-bof/raw/master/slides/ANSYS_Agrawal.pdf)
-  Atos | _Said Derradji_
+  Atos | _Said Derradji_ | [Mont-Blanc Roadmap towards the European Supercomputer](https://github.com/jlinford/sc19-bof/raw/master/slides/Atos_Derradji.pdf)
   Cray | _Dan Ernst_
   Fujitsu | _Takumi Maruyama_ | [The First Arm-based HPC Processor](https://github.com/jlinford/sc19-bof/raw/master/slides/Fujitsu_Maruyama.pdf)
   HPE | _Andy Warner_
