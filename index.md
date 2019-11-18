@@ -20,18 +20,19 @@ Please join in!  We're using this live poll to gather audience feedback and driv
 
   Partner | Presenter | Materials
   :-----: | :-------: | :-------:
+  NVIDIA | _CJ Newburn_
+  NCCS | _Ross Miller_ | [NVIDIA+ARM evaluation on "Wombat"](https://github.com/jlinford/sc19-bof/raw/master/slides/ORNL_Miller.pdf)
+  Marvell | _Larry Wikelius_
   Altair | _Eric Lequiniou_ | [Altair Radioss Porting on Arm](https://github.com/jlinford/sc19-bof/raw/master/slides/Altair_Lequiniou.pdf)
   ANSYS | _Bharat Agrawal_ | [ANSYS Fluent for Arm](https://github.com/jlinford/sc19-bof/raw/master/slides/ANSYS_Agrawal.pdf)
   Atos | _Said Derradji_ | [Mont-Blanc Roadmap towards the European Supercomputer](https://github.com/jlinford/sc19-bof/raw/master/slides/Atos_Derradji.pdf)
   Cray | _Dan Ernst_
   Fujitsu | _Takumi Maruyama_ | [The First Arm-based HPC Processor](https://github.com/jlinford/sc19-bof/raw/master/slides/Fujitsu_Maruyama.pdf)
   HPE | _Andy Warner_ | [Innovation enablement is a crucial advantage of Arm ecosystem](https://github.com/jlinford/sc19-bof/blob/master/slides/HPE_Warner.pdf)
-  Linaro | _Elsie Wahlig_
+  RedHat | _TBD_ | _TBD_
   SUSE | _Jay Kruemke_ | [SUSE for HPC on Arm](https://github.com/jlinford/sc19-bof/blob/master/slides/SUSE_Kruemcke.pdf)
-  NCCS | _Ross Miller_ | [NVIDIA+ARM evaluation on "Wombat"](https://github.com/jlinford/sc19-bof/raw/master/slides/ORNL_Miller.pdf)
-  NVIDIA | _CJ Newburn_
-  Marvell | _Larry Wikelius_
   Whamcloud | _Carlos Thomaz_
+  Linaro | _Elsie Wahlig_
 
   
 ## [55min] Panel Discussion
