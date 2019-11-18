@@ -17,7 +17,6 @@ Arm-based processors have gained substantial traction in the HPC community. Sand
   Fujitsu | _Takumi Maruyama_ | [The First Arm-based HPC Processor](https://github.com/jlinford/sc19-bof/raw/master/slides/Fujitsu_Maruyama.pdf)
   HPE | _Andy Warner_
   Linaro | _Elsie Wahlig_
-  RIKEN | _Mitsuhisa Sato_
   SUSE | _Jay Kruemke_ | [SUSE for HPC on Arm](https://github.com/jlinford/sc19-bof/blob/master/slides/SUSE_Kruemcke.pdf)
   NCCS | _Ross Miller_ | [NVIDIA+ARM evaluation on "Wombat"](https://github.com/jlinford/sc19-bof/raw/master/slides/ORNL_Miller.pdf)
   NVIDIA | _CJ Newburn_
@@ -41,7 +40,7 @@ Interactive discussion with leaders in the Arm HPC space.
 
 ### Simon McIntosh-Smith, _University of Bristol, GW4_ 
 
-### Satoshi Matsuoka, _RIKEN Center for Computational Science_ 
+### Mitsuhisa Sato, _RIKEN Center for Computational Science_ 
 
 ### Andrew Younge, _Sandia National Laboratories_ 
 
