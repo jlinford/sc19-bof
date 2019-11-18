@@ -1,3 +1,7 @@
+# Event Summary
+
+Arm-based processors have gained substantial traction in the HPC community. Sandia’s “Astra” is #156 on the Top500, and projects like the Japanese Post-K “Fugaku”, European Mont-Blanc, U.S. DOE Vanguard, and UK GW4/EPSRC are strong proof points. HPC system integrators like Atos, Cray, Gigabyte, and HPE have Arm commercial offerings, but will Arm become an HPC leader? This BoF brings together experts and luminaries to share their experiences with Arm, discuss the remaining technical and ecosystem challenges, consider the role of codesign in HPC, discuss progress, and lay out a vision for the future state of Arm in the HPC community.
+
 # Live Poll
 
 Please join in!  We're using this live poll to gather audience feedback and drive the panel conversation.
@@ -8,9 +12,7 @@ Please join in!  We're using this live poll to gather audience feedback and driv
 
 # Schedule
 
-## [2min] Opening Remarks
-
-Arm-based processors have gained substantial traction in the HPC community. Sandia’s “Astra” is #156 on the Top500, and projects like the Japanese Post-K “Fugaku”, European Mont-Blanc, U.S. DOE Vanguard, and UK GW4/EPSRC are strong proof points. HPC system integrators like Atos, Cray, Gigabyte, and HPE have Arm commercial offerings, but will Arm become an HPC leader? This BoF brings together experts and luminaries to share their experiences with Arm, discuss the remaining technical and ecosystem challenges, consider the role of codesign in HPC, discuss progress, and lay out a vision for the future state of Arm in the HPC community.
+## [5min] Opening Remarks
 
 ## [25min] Lightning Talks
 
