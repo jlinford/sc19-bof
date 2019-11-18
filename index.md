@@ -1,3 +1,11 @@
+# Live Poll
+
+Please join in!  We're using this live poll to gather audience feedback and drive the panel conversation.
+
+   QR Code | Link
+   ------- | ----
+   <img src="QR.png" alt="QR Code" width="200"/> | Use code **97 34 26** at [menti.com](http://www.menti.com), or [click here to participate](https://www.menti.com/ee43i2m7pr).
+
 # Schedule
 
 ## [2min] Opening Remarks
@@ -22,14 +30,6 @@ Arm-based processors have gained substantial traction in the HPC community. Sand
   NVIDIA | _CJ Newburn_
   Marvell | _Larry Wikelius_
   Whamcloud | _Carlos Thomaz_
-
-## [5min] Live Poll
-
-Audience feedback to drive the conversation and seed questions for the panel.
-
-   QR Code | Link
-   ------- | ----
-   <img src="QR.png" alt="QR Code" width="200"/> | Use code **97 34 26** at [menti.com](http://www.menti.com), or [click here to participate in the poll](https://www.menti.com/ee43i2m7pr).
 
   
 ## [55min] Panel Discussion
