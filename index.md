@@ -14,7 +14,7 @@ Please join in!  We're using this live poll to gather audience feedback and driv
 
 ## [5min] Opening Remarks
 
-## [25min] Lightning Talks
+## [30min] Lightning Talks
 
 120-second talks from Arm's partners in SoCs, interconnects, intergrators, operating systems, storage, and ecosystem.
 
