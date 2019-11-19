@@ -28,8 +28,8 @@ Please join in!  We're using this live poll to gather audience feedback and driv
   Atos | _Said Derradji_ | [Mont-Blanc Roadmap towards the European Supercomputer](https://github.com/jlinford/sc19-bof/raw/master/slides/Atos_Derradji.pdf)
   Fujitsu | _Takumi Maruyama_ | [The First Arm-based HPC Processor](https://github.com/jlinford/sc19-bof/raw/master/slides/Fujitsu_Maruyama.pdf)
   RIKEN | _Mitsuhisa Sato_ | [FLAGSHIP2020 Project "Fugaku"](https://github.com/jlinford/sc19-bof/raw/master/slides/RIKEN_Sato.pdf)
-  Cray | _Dan Ernst_ | 
   HPE | _Andy Warner_ | [Innovation enablement is a crucial advantage of Arm ecosystem](https://github.com/jlinford/sc19-bof/blob/master/slides/HPE_Warner.pdf)
+  Cray | _Dan Ernst_ | [Focus on Real Workloads is a Crucial Advantage of the Arm Ecosystem](https://github.com/jlinford/sc19-bof/raw/master/slides/Cray_Ernst.pdf)
   SUSE | _Jay Kruemke_ | [SUSE for HPC on Arm](https://github.com/jlinford/sc19-bof/blob/master/slides/SUSE_Kruemcke.pdf)
   Whamcloud | _Carlos Thomaz_ | [Lustre Community Roadmap](https://github.com/jlinford/sc19-bof/raw/master/slides/Whamcloud_Thomaz.pdf)
   Linaro | _Elsie Wahlig_ | [Linaro: Enabling Arm Supercomputers](https://github.com/jlinford/sc19-bof/raw/master/slides/Linaro_Wahlig.pdf)
