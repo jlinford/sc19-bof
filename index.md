@@ -27,6 +27,7 @@ Please join in!  We're using this live poll to gather audience feedback and driv
   ANSYS | _Bharat Agrawal_ | [ANSYS Fluent for Arm](https://github.com/jlinford/sc19-bof/raw/master/slides/ANSYS_Agrawal.pdf)
   Atos | _Said Derradji_ | [Mont-Blanc Roadmap towards the European Supercomputer](https://github.com/jlinford/sc19-bof/raw/master/slides/Atos_Derradji.pdf)
   Fujitsu | _Takumi Maruyama_ | [The First Arm-based HPC Processor](https://github.com/jlinford/sc19-bof/raw/master/slides/Fujitsu_Maruyama.pdf)
+  RIKEN | _Mitsuhisa Sato_ | [FLAGSHIP2020 Project "Fugaku"](https://github.com/jlinford/sc19-bof/raw/master/slides/RIKEN_Sato.pdf)
   Cray | _Dan Ernst_ | 
   HPE | _Andy Warner_ | [Innovation enablement is a crucial advantage of Arm ecosystem](https://github.com/jlinford/sc19-bof/blob/master/slides/HPE_Warner.pdf)
   RedHat | _TBD_ | _TBD_
