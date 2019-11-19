@@ -55,6 +55,8 @@ Dirk Pleiter leads a research group on "Application oriented technology developm
 
 ### Keith Obenschain, _U.S. Naval Research Laboratory_ 
 
+Mr. Keith Obenschain is a Computer Scientist at the The Laboratories for Computational Physics and Fluid Dynamics at the Naval Research Laboratory.  He is currently investigating emerging architectures for DoD HPC applications.
+
 ### Guillaume Colin de Verdière, _CEA_
 
 Guillaume graduated from ENSCP (Chimie ParisTech) in 1984 and got his PhD in 2019 (subject was: Searching for the highest
