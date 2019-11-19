@@ -32,7 +32,7 @@ Please join in!  We're using this live poll to gather audience feedback and driv
   HPE | _Andy Warner_ | [Innovation enablement is a crucial advantage of Arm ecosystem](https://github.com/jlinford/sc19-bof/blob/master/slides/HPE_Warner.pdf)
   SUSE | _Jay Kruemke_ | [SUSE for HPC on Arm](https://github.com/jlinford/sc19-bof/blob/master/slides/SUSE_Kruemcke.pdf)
   Whamcloud | _Carlos Thomaz_ | [Lustre Community Roadmap](https://github.com/jlinford/sc19-bof/raw/master/slides/Whamcloud_Thomaz.pdf)
-  Linaro | _Elsie Wahlig_ | 
+  Linaro | _Elsie Wahlig_ | [Linaro: Enabling Arm Supercomputers](https://github.com/jlinford/sc19-bof/raw/master/slides/Linaro_Wahlig.pdf)
 
   
 ## [55min] Panel Discussion
@@ -45,11 +45,15 @@ Rui Oliveira is a Professor at University of Minho and member of the board of IN
 
 ### Simon McIntosh-Smith, _University of Bristol, GW4_ 
 
+Simon McIntosh-Smith is a Professor of High Performance Computing, and PI of the Arm-based Isambard system. He’s been working on Arm in HPC since 2012, when he was a partner in the European Mont Blanc project.
+
 ### Mitsuhisa Sato, _RIKEN Center for Computational Science_ 
 
 Sato is deputy director of the RIKEN Center for Computational Science, and Team Leader of the Programming Environment Research Team.  He is also a deputy project leader and the Team Leader of the Architecture Development Team in the FLAGSSHIP 2020 project that developed the "Fugaku" system.
 
 ### Andrew Younge, _Sandia National Laboratories_ 
+
+Andrew J. Younge is a Senior Member of Technical Staff in the Scalable System Software department at Sandia National Laboratories. He currently serves as the Lead PI for the Supercontainers project under the DOE Exascale Computing Project and is a key contributor to the Astra system, the world's first supercomputer based on the Arm processor deployed under Sandia's Vanguard program. 
 
 ### Dirk Pleiter, _Forschungszentrum Juelich_ 
 
