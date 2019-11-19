@@ -45,6 +45,8 @@ Interactive discussion with leaders in the Arm HPC space.
 
 ### Mitsuhisa Sato, _RIKEN Center for Computational Science_ 
 
+Sato is deputy director of the RIKEN Center for Computational Science, and Team Leader of the Programming Environment Research Team.  He is also a deputy project leader and the Team Leader of the Architecture Development Team in the FLAGSSHIP 2020 project that developed the "Fugaku" system.
+
 ### Andrew Younge, _Sandia National Laboratories_ 
 
 ### Dirk Pleiter, _Forschungszentrum Juelich_ 
