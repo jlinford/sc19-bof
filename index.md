@@ -41,6 +41,8 @@ Interactive discussion with leaders in the Arm HPC space.
 
 ### Rui Oliveira, _University of Minho, INESC TEC_ 
 
+Rui Oliveira is a Professor at University of Minho and member of the board of INESC TEC, Portugal's largest ICT research center. His research interests include large scale data management and privacy-aware data processing.  Since 2017, he's been in charge of setting up MACC, Portugal's supercomputing center, and is an appointed expert to the EuroHPC Joint Undertaking. 
+
 ### Simon McIntosh-Smith, _University of Bristol, GW4_ 
 
 ### Mitsuhisa Sato, _RIKEN Center for Computational Science_ 
