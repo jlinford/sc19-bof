@@ -4,11 +4,9 @@ Arm-based processors have gained substantial traction in the HPC community. Sand
 
 # Live Poll
 
-Please join in!  We're using this live poll to gather audience feedback and drive the panel conversation.
-
    QR Code | Link
    ------- | ----
-   <img src="QR.png" alt="QR Code" width="200"/> | Use code **97 34 26** at [menti.com](http://www.menti.com), or [click here to participate](https://www.menti.com/ee43i2m7pr).
+   <img src="QR.png" alt="QR Code" width="200"/> | [View Results](https://github.com/jlinford/sc19-bof/raw/master/SC19%20BoF_%20Can%20Arm%20Take%20the%20Lead%20in%20HPC_.pdf)
 
 # Schedule
 
